@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\itali\\desktop\\C#\\mywork\\taskdaily\\taskdaily.csproj",
+      "projectUniqueName": "C:\\Users\\itali\\Documents\\GitHub\\TaskDaily\\taskdaily.csproj",
       "projectName": "taskdaily",
-      "projectPath": "C:\\Users\\itali\\desktop\\C#\\mywork\\taskdaily\\taskdaily.csproj",
+      "projectPath": "C:\\Users\\itali\\Documents\\GitHub\\TaskDaily\\taskdaily.csproj",
       "packagesPath": "C:\\Users\\itali\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\itali\\desktop\\C#\\mywork\\taskdaily\\obj\\",
+      "outputPath": "C:\\Users\\itali\\Documents\\GitHub\\TaskDaily\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\itali\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

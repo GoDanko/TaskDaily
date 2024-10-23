@@ -1,0 +1,15 @@
+C:\Users\itali\Documents\GitHub\TaskDaily\bin\Debug\net8.0\taskdaily.exe
+C:\Users\itali\Documents\GitHub\TaskDaily\bin\Debug\net8.0\taskdaily.deps.json
+C:\Users\itali\Documents\GitHub\TaskDaily\bin\Debug\net8.0\taskdaily.runtimeconfig.json
+C:\Users\itali\Documents\GitHub\TaskDaily\bin\Debug\net8.0\taskdaily.dll
+C:\Users\itali\Documents\GitHub\TaskDaily\bin\Debug\net8.0\taskdaily.pdb
+C:\Users\itali\Documents\GitHub\TaskDaily\obj\Debug\net8.0\taskdaily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itali\Documents\GitHub\TaskDaily\obj\Debug\net8.0\taskdaily.AssemblyInfoInputs.cache
+C:\Users\itali\Documents\GitHub\TaskDaily\obj\Debug\net8.0\taskdaily.AssemblyInfo.cs
+C:\Users\itali\Documents\GitHub\TaskDaily\obj\Debug\net8.0\taskdaily.csproj.CoreCompileInputs.cache
+C:\Users\itali\Documents\GitHub\TaskDaily\obj\Debug\net8.0\taskdaily.sourcelink.json
+C:\Users\itali\Documents\GitHub\TaskDaily\obj\Debug\net8.0\taskdaily.dll
+C:\Users\itali\Documents\GitHub\TaskDaily\obj\Debug\net8.0\refint\taskdaily.dll
+C:\Users\itali\Documents\GitHub\TaskDaily\obj\Debug\net8.0\taskdaily.pdb
+C:\Users\itali\Documents\GitHub\TaskDaily\obj\Debug\net8.0\taskdaily.genruntimeconfig.cache
+C:\Users\itali\Documents\GitHub\TaskDaily\obj\Debug\net8.0\ref\taskdaily.dll
