@@ -7,9 +7,13 @@ namespace MyApp
     internal class Program {
         static void Main(string[] args)
         {
-            CreateFile task1 = new CreateFile("First Task", "savings", "Neh, Nana Nah!");
+            // CreateFile task1 = new CreateFile("First Task", "savings", "Neh, Nana Nah!");
+            // CreateFile task2 = new CreateFile("Second Task", "savings");
 
-            CreateFile task2 = new CreateFile("Second Task", "savings");
+            for (int i = 0; i < 99; i++) {
+                new TextEditorWindow(132, 36);
+            }
+            
         }
     }
 
@@ -70,4 +74,52 @@ namespace MyApp
             return content;
         }
     }
+
+    public class TextEditorWindow {
+        public int Width {get; set;}
+        public int Heigth {get; set;}
+
+        public TextEditorWindow(int width, int heigth) {
+            Width = width;
+            Heigth = heigth;
+            Console.SetCursorPosition(0, 0);
+            DrawEditor();
+        }
+
+        void DrawEditor() {
+            for (int y = 0; y <= this.Heigth; y++) {
+                Console.SetCursorPosition(0, y);
+                
+                for (int x = 0; x <= this.Width; x++) {
+                    Console.Write(DrawEditorlayout(x, y));
+                }
+            }
+        }
+
+        char DrawEditorlayout(int x, int y) {
+            if (y == 0 || y == this.Heigth) {
+                return '-';
+            } else if (x == 0 || x == this.Width) { 
+                return '|';
+            }
+            return 'x';
+        }
+    }
+
+    // public class Pointer { // tracking and manipulating pointer's position
+    //     public int Xposition {get; set;}
+    //     public int Yposition {get; set;}
+    //     public char PointerSemblance {get; set;}
+
+    //     public Pointer() {
+
+    //     }
+    // }
+
+    // public class LayoutManager { // making sure that each element has it's own state
+    
+    //     public LayoutManager() {
+             
+    //     }
+    // }
 }
